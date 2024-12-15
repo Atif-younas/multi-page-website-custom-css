@@ -1,0 +1,21 @@
+
+.not-found-title {
+    font-size: 1.875rem; 
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  
+  .not-found-text {
+    margin-left: 1.25rem; 
+  }
+  
+  .not-found-link {
+    margin-left: 1.25rem; 
+    text-decoration: none; 
+    color: inherit; 
+  }
+  
+  .not-found-link:hover {
+    text-decoration: underline;
+  }
+  

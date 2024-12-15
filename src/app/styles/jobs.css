@@ -1,0 +1,17 @@
+
+.jobs-title {
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 2.25rem; 
+  }
+  
+  .jobs-link {
+    margin-left: 1.25rem; 
+    text-decoration: none; 
+    color: inherit; 
+  }
+  
+  .jobs-link:hover {
+    text-decoration: underline; 
+  }
+  
